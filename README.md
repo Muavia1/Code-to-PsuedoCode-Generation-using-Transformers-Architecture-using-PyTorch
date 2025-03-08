@@ -12,19 +12,7 @@
 ## Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone <repo-link>
-cd Code2PseudoCode
 pip install -r requirements.txt
-```
-
-## Usage
-Run the model training script:
-```bash
-python train.py
-```
-To test the model, use:
-```bash
-python predict.py --input "your_code_here"
 ```
 
 ## Requirements
